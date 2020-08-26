@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Projects-Room-Light.iml" filepath="$PROJECT_DIR$/.idea/modules/Projects-Room-Light.iml" group="Room-Light" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Room-Light.iml" filepath="$PROJECT_DIR$/.idea/Room-Light.iml" group="Room-Light" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Room-Light-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Room-Light-app.iml" group="Room-Light/app" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Room-Light/app" />
     </modules>
   </component>
